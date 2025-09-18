@@ -21,11 +21,11 @@ Project Structure:
 ------------
 british-time-converter/
 ├── src/main/java/com/example/time/
-│ ├── TimeConverterMain.java
-│ └── TimeToWords.java
-| └── NumberToWords.java
+│   ├── TimeConverterMain.java
+│   ├── TimeToWords.java
+│   └── NumberToWords.java
 ├── src/test/java/com/example/time/
-│ └── TimeConverterMainTest.java
+│   └── TimeConverterMainTest.java
 ├── pom.xml
 └── README.md
 
